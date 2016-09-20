@@ -1,0 +1,51 @@
+1. Write a C program to find sum of two integers using function sum( ), and product of
+same integers using function product( ).
+
+2. Length and breadth of rectangle are input through the keyboard. Write a C program using
+function to calculate and print area of rectangle
+
+3. Radius of a circle is entered through the keyboard. Write a C program to print area of a
+circle and circumference of a circle using functions.
+
+4. Marks of five subjects are entered through the keyboard. Write a C program using
+function to print total marks and percentile marks.
+
+5. An integer is input through the keyboard. Write a C program using function isoddeven()
+to determine whether the integer is odd or even. Modify program to take as many values
+as user wants to enter.
+
+6. Write a function factorial to calculate and print factorial of any number entered through
+the keyboard.
+
+7. Write a C program to find HCF and LCM of any two numbers entered through the
+keyboard
+
+8. Any integer is input from the keyboard. Write a function to reverse an integer and print
+using C language. For example if user enters 12323 then output should be 32321
+
+9. Any year is entered though the keyboard. Write a function to print whether the year is a
+leap year or not.
+
+10. Two numbers are input through the keyboard. Write a function maxnum to determine
+which number is largest between two integers
+
+11. Three numbers are input through the keyboard. Write a function largest to determine
+which number is largest among 3 three numbers.
+
+12. Write a general purpose function to convert any given year into its roman equivalent. The
+following table shows the roman equivalent of decimal numbers.
+Decimal  Roam
+1  i
+5  v
+10  x
+50  l
+100  c
+500  d
+1000  m
+
+13. Write a function pow(x,y) to calculate the value of x raised to y
+
+14. A positive integer is input through the keyboard. Write a function to obtain the prime
+factors of this number. For example prime factors of 56 are 7, 2, 2 and 2 where as prime
+factors of 26 are 13 and 2
+
