@@ -12,7 +12,7 @@ if [ -z "$last_modded" ]; then
 	exit 0
 fi
 
-if gcc $last_modded |& tee make.out; then
+if gcc -Werror $last_modded |& tee make.out; then
 	./a.out
 else
 	vim -q make.out
