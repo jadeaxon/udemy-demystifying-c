@@ -1,5 +1,5 @@
 1. Write a C program to print day of the week. For example if user enters 1 out should be Monday,
-if user enters 6 the output should be Saturday…
+if user enters 6 the output should be Saturday, etc.
 
 2. Write a menu driven program to print result of various operations on two integers. Two integers
 would be entered by the user and then user should be given prompt to select operation of his
@@ -7,18 +7,18 @@ choice to perform on these two integers. The program should give output on the b
 selected by the user.
 For example if user enters 2 integers as 10 and 20 and asks for addition of two numbers then
 output should be 30. If he asks for multiplication of 2 integers then program should print 200 as
-output and so on…
-The program should run till user wishes…
+output and so on.
+The program should run till user wishes to stop.
 The menu options could be like Enter 1 for addition, 2 for multiplication etc.
 
 3. Write above program by modifying the menu like A for addition, M for multiplication, S for
 subtraction etc.
 
-4.Write above program by modifying the menu like + for addition, * for multiplication, - for
+4. Write above program by modifying the menu like + for addition, * for multiplication, - for
 subtraction etc.
 
 5. An alphabet is entered through the keyboard. Write a program to print whether an alphabet is
-vowel or consonant
+vowel or consonant.
 
 6. Modify above program so that program will run as many times as user wishes. When user wants
 to stop running the program he should be able to stop.
@@ -26,5 +26,5 @@ to stop running the program he should be able to stop.
 7. Any positive integer is entered through the keyboard. Write a program to print the number in
 words… For example if 324 is entered through the keyboard, the output should be Three Two
 Four… and if 12354 is entered through the keyboard the output would be One Two Three Five
-Four
+Four.
 
